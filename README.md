@@ -16,8 +16,8 @@
 ## :open_file_folder: WIKI
 ---
 <div align=center>
-<a href="https://delirious-ankle-691.notion.site/VIBID-c0d2d6a1516a48d490b67fdd6f8bac14">팀 노션</a>　|　
-<a href="https://www.notion.so/f549e89150cf49b2a5584597b303103b"> 회의록</a>　|　
+<a href="https://adjoining-tarragon-87a.notion.site/VIBID-de025f8feec3477cba76aed21fff2ce8">팀 노션</a>　|　
+<a href="https://adjoining-tarragon-87a.notion.site/76d0fc7737b848cb9c8347aa5ae504e0"> 회의록</a>　|　
 <a href="https://documenter.getpostman.com/view/11823464/UVXkma8n"> API 명세서</a>　|　
 <a href="https://www.erdcloud.com/d/akr3ddGtWnTrfRv2Q"> ERD </a>　|　
 <a href="https://www.figma.com/file/8rjfth2PuFWq5b6oNa5g9S/ssafy_project?node-id=3%3A193136"> FIGMA </a>
